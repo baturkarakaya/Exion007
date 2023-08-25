@@ -21,9 +21,9 @@
 
 - 📚 I'm majoring Computer Science & Engineering at Sabanci University.
 
-- 🔭 I’m currently working on a database project using MySQL, Python
+- 🔭 I’m currently working on a NLP project using Python, Kafka, Flask, Mongo
 
-- 🌱 I’m currently learning **C, C#, Database Management**
+- 🌱 I’m currently learning **C, Flask, Database Management**
 
 - 📫 Feel free to reach me out **batur.karakaya@hotmail.com**
 <!--Intro end-->
