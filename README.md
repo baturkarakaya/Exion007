@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on a NLP project using Python, Kafka, Flask, Mongo
 
-- 🌱 I’m currently learning **MongoDB, Restful API, Flask, Database Management**
+- 🌱 I’m currently learning **Java, MongoDB, Restful API, Database Management**
 
 - 📫 Feel free to reach me out **batur.karakaya@hotmail.com**
 <!--Intro end-->
