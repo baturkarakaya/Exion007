@@ -21,7 +21,7 @@
 
 - 📚 I'm majoring Computer Science & Engineering at Sabanci University.
 
-- 🔭 I’m currently working on a mobile app project using Flutter and MongoDB
+- 🔭 I’m currently working on a mobile app projects using Flutter, Java, MongoDB and Android Studio
 
 - 🌱 I’m currently learning **Java, Restful API, Database Management**
 
