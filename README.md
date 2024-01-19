@@ -21,9 +21,9 @@
 
 - 📚 I'm majoring Computer Science & Engineering at Sabanci University.
 
-- 🔭 I’m currently working on a NLP project using Python, Kafka, Flask, Mongo
+- 🔭 I’m currently working on a mobile app project using Flutter and MongoDB
 
-- 🌱 I’m currently learning **Java, MongoDB, Restful API, Database Management**
+- 🌱 I’m currently learning **Java, Restful API, Database Management**
 
 - 📫 Feel free to reach me out **batur.karakaya@hotmail.com**
 <!--Intro end-->
@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,discord,github,kotlin,linux,mysql,py,visualstudio,vscode,mongo&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,flutter,discord,github,kotlin,linux,mysql,py,visualstudio,vscode,mongo&perline=14" />
   </a>
 </p>
 
