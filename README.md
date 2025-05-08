@@ -13,7 +13,7 @@
 
 - 📚 I studied Computer Science & Engineering at Sabanci University.
 
-- 🔭 I’m currently working as a backend intern at Migros ONE
+- 🔭 I’m currently working as Backend Intern at Migros ONE
 
 - 🌱 I’m currently learning **Java, Restful API, Database Management**
 
